@@ -7,7 +7,7 @@ mysql/data/
 
 # ignora tudo no diretório "nginx/sites", exceto:
 legba/sites/*
-!legba/sites/legba.dev.conf
+!legba/sites/legba.beta.conf
 legba/html/*
 legba/html/.*
 !legba/html/info.php
